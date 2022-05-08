@@ -1,5 +1,5 @@
 # Loopstudio
-## In this project you can see a webstore but its not finished 
+## In this project you can see a landingPage but its not finished 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
